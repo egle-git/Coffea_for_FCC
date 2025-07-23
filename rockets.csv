@@ -1,0 +1,21 @@
+Rocket,Country,First Flight,Height,Mass,Payload,Stages,Status,Launches
+Soyuz,Russia,1966,46.1,305,7.8,3,Active,1900
+Saturn V,USA,1967,110.6,2970,140.0,3,Retired,13
+N1,USSR,1969,105.0,2735,95.0,4,Canceled,4
+Ariane 5,Europe,1996,53.0,780,21.0,2,Retired,117
+Falcon 9,USA,2010,70.0,549,22.8,2,Active,320
+Vega,Europe,2012,30.0,137,1.5,3,Active,22
+LVM3,India,2014,43.4,640,10.0,3,Active,9
+Starship,USA,2023,120.0,5000,150.0,2,In development,4
+Ariane 6,Europe,2024,62.0,540,20.0,2,In development,1
+Atlas V,USA,2002,58.3,334,20.5,2,Retiring,99
+Delta IV Heavy,USA,2004,72.0,733,28.8,2,Retired,15
+Vulcan Centaur,USA,2024,61.0,546,27.2,2,In development,2
+Long March 2F,China,1999,62.0,485,8.4,2,Active,20
+Long March 3B,China,1996,56.0,425,13.0,3,Active,90
+Long March 5,China,2016,57.0,869,23.0,2,Active,12
+Long March 6A,China,2022,50.0,530,20.0,2,Active,4
+Long March 7,China,2016,53.0,587,13.5,2,Active,22
+Long March 8,China,2020,50.0,356,10.0,2,Active,6
+H-IIA,Japan,2001,53.0,445,15.0,2,Active,47
+H3,Japan,2024,63.0,574,6.5,2,Active,2
